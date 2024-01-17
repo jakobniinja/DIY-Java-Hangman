@@ -1,1 +1,2 @@
-# DIY-Java-Hangman
+# Java-Games-Hangman
+
