@@ -44,6 +44,7 @@ public class Hangman extends MyWindow {
         while (clue.contains("-") && wrongLetters.length() < 10) {
           String guess = promptforString("Guess a letter");
           guess = guess.toUpperCase();
+
           if (guess.length() != 1) {
             print("Your guess must contain only 1 letter. Guess");
 
@@ -78,7 +79,6 @@ public class Hangman extends MyWindow {
       throw new RuntimeException("Could not find file: " + FILENAME, e);
     } catch (IOException e) {
       throw new RuntimeException("IOException", e);
-
     }
   }
 
