@@ -1,2 +1,2 @@
-# Java-Games-Hangman
+# Java-games-hangman
 
