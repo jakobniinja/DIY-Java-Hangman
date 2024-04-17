@@ -1,34 +1,0 @@
-
-b	java:S112O"FDefine and throw a dedicated exception instead of using a generic one.(´…·Ö8œê¶ÖÎ1
-b	java:S112Q"FDefine and throw a dedicated exception instead of using a generic one.(ƒïÈÁ8ÓÊŞ¯Ñ1
-L
-java:S3740"/Provide the parametrized type for this generic.(Ô‡Å±8ê¶ÖÎ1
-L
-java:S3740"/Provide the parametrized type for this generic.(Ô‡Å±8ê¶ÖÎ1
-m
-java:S1192p"PDefine a constant instead of duplicating this literal "     _________" 10 times.(ü¾Ï´8Œ¯½ÖÎ1
-s
-java:S1192g"QDefine a constant instead of duplicating this literal "     |          " 3 times.(åèÑùÿÿÿÿ8Œ¯½ÖÎ1
-r
-java:S1192i"PDefine a constant instead of duplicating this literal "     |         " 8 times.(åèÑùÿÿÿÿ8Œ¯½ÖÎ1
-o
-java:S1192“"QDefine a constant instead of duplicating this literal "     |       (_)" 7 times.(ÎóêÆ8úÏÖÎ1
-m
-java:S1192|"PDefine a constant instead of duplicating this literal "     |/       |" 9 times.(ß¸‚õ8Œ¯½ÖÎ1
-u
-java:S1192µ"RDefine a constant instead of duplicating this literal "     |       \\|/" 4 times.(Ñ´³¤úÿÿÿÿ8©ëĞÖÎ1
-n
-java:S1192Â"PDefine a constant instead of duplicating this literal "     |        |" 3 times.(ˆéíĞ8ÈÕÖÎ1
-k
-java:S1192l"IDefine a constant instead of duplicating this literal "     | " 11 times.(ı½ô”øÿÿÿÿ8ä¸ÏÖÎ1
-u
-java:S1192h"SDefine a constant instead of duplicating this literal "     |           " 25 times.(åèÑùÿÿÿÿ8äÄÜÖÎ1
-9
-java:S1643@"Use a StringBuilder instead.(¾…Ç¡8ê¶ÖÎ1
-9
-java:S1643Y"Use a StringBuilder instead.(›äÓ8ê¶ÖÎ1
-9
-java:S1643["Use a StringBuilder instead.(· šÌ8ê¶ÖÎ1
-t
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ßûãÆûÿÿÿÿ8–ë¶ÖÎ1
-C	java:S131c""Add a default case to this switch.(ÀğÆ¿ÿÿÿÿÿ8§Äº®Ñ1
